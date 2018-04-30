@@ -1,0 +1,1 @@
+Create a text file and change the filelocation in the web.config of FileLog Key.
